@@ -1,0 +1,79 @@
+---
+title: CorDarryl E. Hall
+image: Hall_CorDarryl_7223_re.jpg
+about:
+  template: solana
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cordarryl-hall/
+    - icon: github
+      text: Github
+      href: https://github.com/CorDarrylHall
+---
+
+## Introduction
+
+CorDarryl E. Hall is a Senior Business Analyst/Program Manager at Lam Research. When not innovating on how to improve his data/program management techniques, CorDarryl enjoy various hobbies such as chess, architecture, and skydiving, and spending time with his two dogs.
+
+## Education
+
+##### **Willamette University** \| Portland, OR
+
+Master of Data Science \| August 2023
+
+##### **Willamette University** \| Portland, OR
+
+Master of Business Administration \| August 2019
+
+##### **University of Arizona** \| Tucson, AZ
+
+B.S in Business Administration \| December 2011
+
+## Experience
+
+#### **Lam Research**
+
+| Senior Business Analyst/Program Manager
+| February 2022 - present
+
+#### **Intel Corporation**
+
+| Senior Operations Program Manager
+| May 2018 - February 2022
+
+#### **U.S.Navy**
+
+| Machinist/Logistics Specialist
+| September 2012 - June 2020
+
+## Skills & Certifications
+
+#### ***Technical Skills***
+
+| SQL, Python, DAX, R, SAP, Power BI, Tableau, Microsoft 365 Office Suite, Smartsheet, Lucid Planner
+
+#### ***Certifications***
+
+| PGMP (Program Management Certification), Scrum Master
+
+#### ***Credentials***
+
+| MBA, Master of Data Science
+
+#### ***Soft Skills***
+
+| Strategic Planning, Program Management, Team Leadership, Data Analysis, Visualization, Communication, Stakeholder Management
+
+## About Me
+
+As a Business Analyst and Program Manager, I am seeking new opportunities in Program Management where I can leverage my expertise in data analytics to provide strategic insights. My extensive experience includes serving as an Operations Program Manager, where I successfully led multi-disciplinary projects, coordinated stakeholders, and drove operational excellence. I have effectively managed the execution of strategic engineering objectives using tools such as Smartsheet and Lucid Planner, resulting in significant achievements like increasing Intel NUC device production from \$4 million to \$6 million over 10 years and orchestrating collaboration among 13 cross-functional teams to achieve a 27% revenue increase over three quarters. At Lam Research, I excelled in leading technical collaborations that resulted in a new contract management system and optimizing workflows to enhance business efficacy by 44%.
+
+In my roles, I have showcased my proficiency in managing intricate compensation data processes and reporting at both Lam Research and Intel Corporation. I utilized tools like Power BI and Tableau and developed dashboards using languages such as R, Python, and SQL. As a Program Manager at Intel, I led a team to achieve record-breaking milestones in product introductions. My background also includes serving in the United States Navy, where I managed extensive equipment inventories and led multiple deployments. Additionally, I hold an MBA from Willamette University, where I consulted for the Boys & Girls Club, saving them over \$500K.
+
+I am enthusiastic about discussing how I can contribute to your company's success and look forward to potential collaborations.
+
+![](Untitled/dogs.jpg){fig-align="center" width="500"}

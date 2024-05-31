@@ -1,0 +1,88 @@
+---
+title: Services
+about:
+  template: marquee
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/cordarryl-hall/
+    - icon: github
+      text: Github
+      href: https://github.com/CorDarrylHall
+images:
+  - image: prpgmgmt.jpg
+    title: Strategic Program Management
+    alt: Image showing strategic program management
+  - image: data.jpg
+    title: Data Analytics and Machine Learning
+    alt: Image showing data analytics and machine learning
+  - image: bpo.png
+    title: Business Process Optimization
+    alt: Image showing business process optimization
+---
+![](prpgmgmt.jpg){fig-align="center" width="300"}
+
+## **Strategic Program Management**
+With over a decade of experience in operations and program management, I offer strategic program management services that ensure your projects are executed efficiently and effectively. My expertise includes leading multi-disciplinary teams, coordinating stakeholders, and driving operational excellence to achieve organizational goals.
+
+Key Offerings:
+
+- Strategic planning and execution 
+- Multi-disciplinary team coordination 
+- Stakeholder management 
+- Risk assessment and mitigation 
+- Project lifecycle management 
+
+![](data.png){fig-align="center" width="300"}
+
+## **Data Analytics and Machine Learning**   
+As a passionate advocate for data-driven decision-making, I provide advanced data analytics and machine learning services. Utilizing tools like Power BI, Tableau, Python, and R, I deliver strategic insights that drive technological advancements and improve business outcomes.
+
+Key Offerings:
+
+- Data analysis and visualization 
+- Machine learning model development 
+- Dashboard creation and management 
+- Data-driven strategic insights 
+- Process automation through machine learning 
+
+![](bpo1.png){fig-align="center" width="300"}
+
+## **Business Process Optimization**  
+With a proven track record in optimizing business processes, I offer services to enhance your organization's efficiency and effectiveness. My experience includes deploying contract management systems, optimizing workflows, and developing process improvement documents to reduce errors and increase productivity.
+
+Key Offerings:
+
+- Workflow optimization 
+- Process improvement documentation 
+- Change management Root cause analysis 
+- Performance metrics and reporting 
+
+![](data1.png){fig-align="center" width="300"}
+
+## **Data Management** 
+Specializing in Human Resources & Compensation data management, I provide comprehensive services to manage and report on compensation data, ensuring accuracy and compliance. My background includes developing BI Publisher reports, managing compensation data sets, and implementing machine learning models to automate processes.
+
+Key Offerings:
+
+- Human Resources & Compensation data reporting 
+- BI Publisher report development 
+- Compensation program optimization 
+- Data set administration 
+- Process automation 
+
+![](platform.png){fig-align="center" width="300"}
+
+## **Technical Collaboration and Systems Deployment** 
+Leveraging my experience in leading technical collaborations, I offer services to deploy and manage contract management systems and other technical solutions. My role in orchestrating the efforts of cross-functional teams ensures successful system implementation and enhanced business efficacy.
+
+Key Offerings:
+
+- Technical project/program management 
+- System deployment and management 
+- Cross-functional team collaboration 
+- Workflow optimization 
+- Business efficacy enhancement
